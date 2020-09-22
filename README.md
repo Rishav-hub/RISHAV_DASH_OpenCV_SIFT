@@ -1,4 +1,4 @@
-# Hi there viewers. This Repo consists of information about a very famous algorithm in OpenCV thats the SIFT (Scale Invariant Feature Transform)
+# Hi there viewers. This Repo consists of information about a very famous algorithm in OpenCV that's the SIFT (Scale Invariant Feature Transform)
 - You can have a look at the file named [Rishav_Dash_OpenCV_SIFT.md][md]
 - To see it's implementation have a look on [RISHAV_DASH_OpenCV_SIFT.ipynb][ipynb]
 
